@@ -1,7 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { Video } from './Video';
 import { Menu } from './Menu';
+import './App.css'
 
 const VIDEOS = {
   fast: 'https://s3.amazonaws.com/codecademy-content/courses/React/react_video-fast.mp4',
