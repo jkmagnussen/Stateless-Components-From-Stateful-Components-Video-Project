@@ -3,6 +3,8 @@ import { Video } from './Video';
 import { Menu } from './Menu';
 import './App.css'
 
+
+//Video Object
 const VIDEOS = {
   fast: 'https://s3.amazonaws.com/codecademy-content/courses/React/react_video-fast.mp4',
   slow: 'https://s3.amazonaws.com/codecademy-content/courses/React/react_video-slow.mp4',
